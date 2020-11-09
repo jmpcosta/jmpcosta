@@ -1,4 +1,4 @@
-### Hi there, welcome to my repository 👋
+### Hi there, welcome to my GitHub profile  👋
 
 <!--
 **jmpcosta/jmpcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
