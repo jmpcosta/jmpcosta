@@ -43,6 +43,16 @@ Here are some ideas to get you started:
 
 ---
 
+### Open Source organizations
+- [Open Source Initiative][osi]
+- [The Linux Foundation][lxfond]
+- [Mozilla Foundation][mozfond]
+- [freeBSD Foundation][fbsdfond]
+
+<br/>
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmpcosta)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -58,7 +68,10 @@ Here are some ideas to get you started:
 [linux]:     https://www.linux.org
 [git]:       https://git-scm.com
 [gh]:        https://github.com
-
+[osi]:       https://opensource.org/
+[lxfond]:    https://www.linuxfoundation.org
+[mozfond]:   https://foundation.mozilla.org
+[fbsdfond]:  https://freebsdfoundation.org/
 
 [ARTA]:      https://github.com/jmpcosta/arta
 [LOC]:       https://github.com/jmpcosta/loc
