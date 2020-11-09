@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🔭 I’m currently working on several open sources projects, see list bellow
-- 🤔 I’m looking for help with a set of projects related with a new system interface
+- :computer: I’m currently working on several open sources projects, see list bellow
+- :eyes: I’m looking for help with a set of projects related with a new system interface
 
 ### Connect with me
 [<img align="left" alt="Joao Costa | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
@@ -48,13 +48,14 @@ Here are some ideas to get you started:
 - [The Linux Foundation][lxfond]
 - [Mozilla Foundation][mozfond]
 - [freeBSD Foundation][fbsdfond]
-
+- [The Document Foundation][libre]
+- [Eclipse Foundation][eclipse]
+- [WordPress Foundation][wordpress]
 <br/>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmpcosta)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img align="left" alt="Repository statistics" src="https://github-readme-stats.vercel.app/api?username=jmpcosta&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=prs&theme=dracula" />
 
@@ -68,10 +69,14 @@ Here are some ideas to get you started:
 [linux]:     https://www.linux.org
 [git]:       https://git-scm.com
 [gh]:        https://github.com
+
 [osi]:       https://opensource.org/
 [lxfond]:    https://www.linuxfoundation.org
 [mozfond]:   https://foundation.mozilla.org
 [fbsdfond]:  https://freebsdfoundation.org/
+[libre]:     https://www.documentfoundation.org
+[eclipse]:   https://www.eclipse.org
+[wordpress]: https://wordpressfoundation.org
 
 [ARTA]:      https://github.com/jmpcosta/arta
 [LOC]:       https://github.com/jmpcosta/loc
