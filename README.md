@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - :eyes: I’m looking for help with a set of projects related with a new system interface
 
 ### Connect with me
-[<img align="left" alt="Joao Costa | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Joao Costa | LinkedIn"      width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Joao Costa | Stackoverflow" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/stackoverflow.svg"/>][exchange]
+[<img align="left" alt="Joao Costa | Youtube"       width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][youtube]
 
 <br/>
 
@@ -69,6 +70,7 @@ Here are some ideas to get you started:
 [linux]:     https://www.linux.org
 [git]:       https://git-scm.com
 [gh]:        https://github.com
+[youtube]:   https://www.youtube.com/channel/UCK2eyRc_x0mvKEOJUoGK8tA
 
 [osi]:       https://opensource.org/
 [lxfond]:    https://www.linuxfoundation.org
