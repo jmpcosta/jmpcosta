@@ -29,7 +29,14 @@ Here are some ideas to get you started:
 - [System Service watchdog][SWATCHDOG]
 - [Automation tool][MONKEY]
 
-## Languages and Tools
+## Languages
+[<img align="left" alt="C" width="26px"  src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>][C]
+[<img align="left" alt="C++" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>][CPP]
+[<img align="left" alt="Bash shell" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>][BASH]
+[<img align="left" alt="Powershell" width="26px"  src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true"/>][PS]
+<br/>
+
+## Tools
 [<img align="left" alt="Visual Studio Code" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 [<img align="left" alt="Linux" width="26px"  src="https://img.icons8.com/color/linux"/>][linux]
 [<img align="left" alt="Linux" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
@@ -59,8 +66,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Repository statistics" src="https://github-readme-stats.vercel.app/api?username=jmpcosta&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=prs&theme=dracula" />
 
-
-
 [osapi]:     https://github.com/os-api
 [linkedin]:  https://pt.linkedin.com/in/jmpcosta
 [exchange]:  https://stackexchange.com/users/16625488/joao-costa
@@ -70,6 +75,11 @@ Here are some ideas to get you started:
 [git]:       https://git-scm.com
 [gh]:        https://github.com
 [youtube]:   https://www.youtube.com/channel/UCK2eyRc_x0mvKEOJUoGK8tA
+[CPP]:       https://en.wikipedia.org/wiki/C%2B%2B
+[C]:         https://en.wikipedia.org/wiki/C_(programming_language)
+[BASH]:      https://www.gnu.org/software/bash/
+[PS]:        https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
+
 
 [osi]:       https://opensource.org/
 [lxfond]:    https://www.linuxfoundation.org
