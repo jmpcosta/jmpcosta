@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### Connect with me
 [<img align="left" alt="Joao Costa | Stackoverflow" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/stackoverflow.svg"/>][exchange]
 [<img align="left" alt="Joao Costa | Youtube"       width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][youtube]
-<!--
-[<img align="left" alt="Joao Costa | Contact me"    width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][CONTACT]
--->
+
+[<img align="left" alt="Joao Costa | Contact me"    width="22px"  src="https://raw.githubusercontent.com/jmpcosta/jmpcosta/main/images/Contact.ico" />][CONTACT]
+
 <br/>
 
 ## Open Source projects
