@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Connect with me
 [<img align="left" alt="Joao Costa | Contact me"    width="22px"  src="https://raw.githubusercontent.com/jmpcosta/jmpcosta/main/images/Contact.ico" />][CONTACT]
 [<img align="left" alt="Joao Costa | Twitter"       width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][Twitter]
+[<img align="left" alt="Joao Costa | Reddit"        width="22px"  src="https://theme.zdassets.com/theme_assets/551444/93444bcc8564bd015ec76158fce152f5a315d022.ico"/>][REDDIT]
 [<img align="left" alt="Joao Costa | Stackoverflow" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/stackoverflow.svg"/>][exchange]
 [<img align="left" alt="Joao Costa | Youtube"       width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>][youtube]
 
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 [osapi]:     https://github.com/os-api
 [linkedin]:  https://pt.linkedin.com/in/jmpcosta
 [Twitter]:   https://twitter.com/JoaoCostaPro
+[REDDIT]:    https://www.reddit.com/user/jmpcosta
 [exchange]:  https://stackexchange.com/users/16625488/joao-costa
 [CONTACT]:   https://forms.gle/1UWXF5gdG9jFi9fC6
 [vscode]:    https://code.visualstudio.com
